@@ -7,8 +7,7 @@ version = '1.0.dev0'
 setup(name='sphinx.ecrealltheme',
       version=version,
       description=u"Theme for Ecréall sphinx documentation.",
-      long_description=open("README.rst").read() + "\n" +
-                       open("CHANGES.txt").read(),
+      long_description=open("README.rst").read(),
       # Get more strings from
       # http://pypi.python.org/pypi?:action=list_classifiers
       classifiers=[
@@ -19,7 +18,7 @@ setup(name='sphinx.ecrealltheme',
         "Programming Language :: Python :: 2.7",
       ],
       keywords='sphinx theme',
-      author='Cédric Messiant',
+      author=u"Cédric Messiant",
       author_email='cedric.messiant@gmail.com',
       url='https://github.com/collective/sphinx.ecrealltheme',
       license='GPL',
