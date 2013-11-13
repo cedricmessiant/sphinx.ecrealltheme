@@ -58,6 +58,7 @@ div.related a {
    *******
 */
 
+/*
 div.sphinxsidebar {
 }
 
@@ -79,9 +80,9 @@ div.sphinxsidebar h4 {
     padding: 0 0.5em;
 }
 
-div.sphinxsidebar h3 a, 
-div.sphinxsidebar h3 a:hover { 
-    color: white; 
+div.sphinxsidebar h3 a,
+div.sphinxsidebar h3 a:hover {
+    color: white;
 }
 
 
@@ -112,6 +113,7 @@ div.sphinxsidebar input {
     font-family: sans-serif;
     font-size: 1em;
 }
+*/
 
 /* ***********
    Body styles
@@ -330,7 +332,7 @@ div.sidebar {
     border: none;
     -moz-border-radius: 0.5em;
     -webkit-border-radius: 0.5em;
-    border-radius: 0.5em; 
+    border-radius: 0.5em;
     -moz-box-shadow: 10px 10px 5px #888;
     -webkit-box-shadow: 10px 10px 5px #888;
     box-shadow: 10px 10px 5px #888;
